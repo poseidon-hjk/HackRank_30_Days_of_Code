@@ -50,7 +50,7 @@ On a new line for each query, print Not found if the name has no corresponding e
 ### Explanation
 
 
-We add the following  (Key,Value) pairs to our map so it looks like this:
+We add the following  (Key,Value) pairs to our map so it looks like this:<br>
 <b><i> phoneBook = {(sam, 99912222), (tom, 11122222), (harry, 12299933)} </i></b>
 
 We then process each query and print key=value if the queried  is found in the map; otherwise, we print Not found.
